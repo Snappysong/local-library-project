@@ -5,6 +5,8 @@ This is a project for a library to keep track of their accounts and books. You c
 
 This was my first project creating my own Javascript functions that would interact with the user and make the page interactive, by showing new data when the user requested it. I like the keep the functions working with the original code so I can look back and see how I grew as a programmer. 
 
+Project link: https://snappysong.github.io/local-library-project/
+
 ## Goals
 
 - Use Visual Studio Code as a text editor.
